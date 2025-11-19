@@ -1,4 +1,4 @@
-Power BI Learning Journey – Workout Wednesday Challenges
+#Power BI Learning Journey – Workout Wednesday Challenges
 I have started exploring new Power BI skills by taking on random challenges from the Workout Wednesday website. For each challenge, I recreate the solution using sample datasets to deepen my understanding.
 
 This repository contains my first completed challenge demonstrating the use of the Parameter tool in Power BI.
