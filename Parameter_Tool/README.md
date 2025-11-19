@@ -1,12 +1,42 @@
-#Power BI Learning Journey – Workout Wednesday Challenges
-I have started exploring new Power BI skills by taking on random challenges from the Workout Wednesday website. For each challenge, I recreate the solution using sample datasets to deepen my understanding.
+## Power BI Practice: Workout Wednesday Challenges
 
-This repository contains my first completed challenge demonstrating the use of the Parameter tool in Power BI.
+I’ve started exploring new Power BI concepts through **Workout Wednesday** challenges. I pick a random challenge, recreate it using a dataset of my choice, and upload the results here as part of my Power BI learning journey.
 
-Numeric field parameter is used here to dynamically display the data label in an inventory value trend visual.
+### 🔹 Challenge 1: Using Parameters in Power BI
 
-Additionally, I implemented a field parameter to allow dynamic selection of the Y-axis series by parts category. This lets the user choose to visualize any one of the inventory value, stockout incident counts, average holding cost, or inventory volume over the 12 months of 2024.
+**Focus:** Numeric Field Parameters & Field Parameters for Dynamic Visuals
 
-Using a field parameter, the X-axis can also be dynamically switched between part category and month-year.
+In this challenge, I experimented with **Power BI Parameters** to make visuals more interactive and insightful.
 
-These features showcase advanced interactive capabilities of Power BI for inventory analytics and reporting.
+#### ✔️ Numeric Field Parameter
+
+Used a **numeric field parameter** to dynamically display different **data labels** in an *Inventory Value Trend* chart.
+This allows the viewer to switch between metrics (e.g., inventory value, stockouts, holding cost, etc.) and see the corresponding label update instantly.
+
+#### ✔️ Field Parameter (Y-Axis Selection)
+
+Implemented a **field parameter** to let users dynamically choose which metric appears on the **Y-axis**.
+For example, based on *Part Category*, users can toggle between:
+
+* Inventory Value
+* Stockout Incident Count
+* Average Holding Cost
+* Inventory Volume
+  (over the 12 months of 2024)
+
+#### ✔️ Field Parameter (X-Axis Selection)
+
+Another field parameter was added to toggle the **X-axis** between:
+
+* Part Category
+* Month-Year
+
+This creates a flexible and highly customizable trend view for business users.
+
+---
+
+If you'd like, I can also help you:
+✅ refine this further,
+✅ add screenshots/table of contents,
+✅ add a “How to use” section, or
+✅ structure your full GitHub README with badges, folders, and visuals.
